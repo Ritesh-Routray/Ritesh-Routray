@@ -12,7 +12,7 @@
 <h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
 <p align="center"> 
-<button href="https://www.linkedin.com/in/ritesh-routray-b2ab38265/"> LinkedIn </button>
+<h3 href"https://www.linkedin.com/in/ritesh-routray-b2ab38265/">LinkedIn</h3>
 </p>
 
 🤔 About
