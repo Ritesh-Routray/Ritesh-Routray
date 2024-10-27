@@ -3,7 +3,7 @@
   ▂▄▄▓▄▄▂                                                        ╫►►         ▁▁ ▓
 ◢◤ █▀▀████▄▄▄▄▄▄▄◢◤             ● ● ● ▄▄▄▄▄▄▄████▮                ╫        █████████
 █ MERN STACK █▀▀▀▀╬              ▂▃▄▅████▀▀▀████▅▄            ╫        ▟██⍁██⍁██⍁███▙
-◥█████████◤                       ▄█████ ML/AI █████▄                 ▜████    DSA  ████▛
+◥█████████◤                       ▄█████ DevOps █████▄                 ▜████    DSA  ████▛
 ══╩════╩══                         ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲◤       ▜███████████████████▛
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
@@ -19,7 +19,7 @@
 
   <ul>
     🤔 About
-    <li>Working : Web Development 💻 | ML/AI ☁️</li>
+    <li>Working : Web Development 💻 | DevOps ☁️</li>
 	<li>Learning : DSA ⚡ | Open-Source 🔥</li>
 	<li>Hobbies : Sleeping 📚 | Music 🎧</li>
 	<li>Ask me about : Anything!, I'm happy to help ✌️</li>
